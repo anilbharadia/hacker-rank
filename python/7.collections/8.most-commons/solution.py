@@ -9,4 +9,4 @@ for c in dq:
         od[c] += 1
     else:
         od[c] = 1
-print od
+print od.v
